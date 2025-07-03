@@ -113,25 +113,6 @@ Created new features for analysis:
 
 ---
 
-## Visualizations
-
-> **Note:** To include the plots in this README, export them from the notebook as `.png` files and place them in an `images/` directory. Then, update the links below.
-
-### Example Plots
-
-#### 1. Gender vs Possibility of Stroke
-![Gender vs Stroke](images/gender_vs_stroke.png)
-
-#### 2. Age Group vs Possibility of Stroke
-![Age Group vs Stroke](images/age_vs_stroke.png)
-
-#### 3. Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-#### 4. Model Score Comparison
-![Model Scores](images/model_scores.png)
-
----
 
 ## Conclusion
 
